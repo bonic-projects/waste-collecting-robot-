@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "708185982496",
+    "firebase_url": "https://boa-waste-collector-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "boa-waste-collector",
+    "storage_bucket": "boa-waste-collector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708185982496:android:a7be16afdec4fafc545e45",
+        "android_client_info": {
+          "package_name": "com.example.boa_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-2VL4RKjcbIP8QumNMbEmystmguPdj4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
